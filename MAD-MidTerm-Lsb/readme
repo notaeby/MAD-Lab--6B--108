@@ -1,1 +1,16 @@
-hehe
+Design a Salah Tracker App, Where user can choose a specific date from past. (It should not allow to select a date in future)
+For the date selected, show the 5 prayer times, where user can select offered or not offered.
+Add a screen where user can see the reports of Salah offered,
+User can choose one of four reports:
+Daily
+Weekly
+Monthly
+And a custom range where user can select a start and end date.
+Grading Criteria:
+1-	10 % - If the app is running 
+2-	10 % - If the calendar is working for date selection
+3-	15% - if the user can choose the offered / Not offered options.
+4-	20% - if the reports are displayed properly.
+5-	45% - Viva
+Sample Design: http://salah-tracker.surge.sh/ 
+Viva date:  26/04/2022
