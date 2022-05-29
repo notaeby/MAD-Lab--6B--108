@@ -1,8 +1,8 @@
 Mad Lab assignment
 Store the namaz data from midterm exam in local storage and generate all reports using the that data by reading it from localstorage
  
-Screenshot 1: When You select data, the data against it is shown, like if you turned any toggle switch on it will be enabled, further you can overright by switching the toogle buttons and submitting them.
- 
-Screenshot 2: When you select the date and select the values of prayed namaz through toogle button and press save button, the data against it is saved.
+Screenshot 1: When you select data, the data against it is shown, like if you turned any toggle switch on it will be enabled. You can furthermore overright by switching the toogle buttons and submitting them.
 
-Screenshot 3: It is about weekly reports, when you press the weekly button, it will generate the report of whole week and change the value of graph accordingly.
+Screenshot 2: When you select the date and select the values of the prayed namaz through the toggle button and press the save button, the data against it is saved.
+
+Screenshot 3: It is about weekly reports. When you press the weekly button, it will generate the report for the whole week and change the value of the graph accordingly.
